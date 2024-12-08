@@ -1,0 +1,28 @@
+﻿@model User
+
+<h1 class="alert alert-info text-center">@Model.Name Details</h1>
+
+<div class="row">
+    <dl class="row col-6">
+        <dt class="col-2">@Html.DisplayNameFor(e=>e.UserId)</dt>
+        <dd class="col-10">@Html.DisplayFor(e => e.UserId)</dd>
+        @*<dd class="col-10">@Model.Id</dd>*@
+
+        <dt class="col-2">@Html.DisplayNameFor(e=>e.Name)</dt>
+        <dd class="col-10">@Html.DisplayFor(e=>e.Name)</dd>
+        @*<dd class="col-10">@Model.FullName</dd>*@
+
+        <dt class="col-2">@Html.DisplayNameFor(e => e.MobileNumber)</dt>
+        <dd class="col-10">@Html.DisplayFor(e => e.MobileNumber)</dd>
+        @*<dd class="col-10">@Model.Position</dd>*@
+
+        <dt class="col-2">@Html.DisplayNameFor(e=> e.Address)</dt>
+        <dd class="col-10">@Html.DisplayFor(e => e.Address)</dd>
+        @*<dd class="col-10">@Model.Salary</dd>*@
+
+        
+    </dl>
+
+   
+</div>
+<a asp-controller="User" asp-action="GetIndexView">Back to List</a>

@@ -1,0 +1,61 @@
+﻿@model User
+
+<div class="row">
+    <form class="col-4" method="post" asp-controller="User" asp-action="AddNew" enctype="multipart/form-data">
+
+        <div asp-validation-summary="All" class="text-danger"></div>
+
+        <div>
+            @*<label>@Html.DisplayNameFor(e=>e.FullName)</label>*@
+            <label asp-for="Name"></label>
+            <input type="text" asp-for="Name" class="form-control" />
+            <span asp-validation-for="Name" class="text-danger"></span>
+        </div>
+
+        <div>
+            @*<label>@Html.DisplayNameFor(e=>e.Position)</label>*@
+            <label asp-for="Email"></label>
+            <input type="text" asp-for="Email" class="form-control" />
+            <span asp-validation-for="Email" class="text-danger"></span>
+        </div>
+
+        <div>
+            @*<label>@Html.DisplayNameFor(e=>e.Salary)</label>*@
+            <label asp-for="Address"></label>
+            <input type="text" asp-for="Address" step="0.01" class="form-control" />
+            <span asp-validation-for="Address" class="text-danger"></span>
+        </div>
+
+        <div>
+            @*<label>@Html.DisplayNameFor(e=>e.BirthDate)</label>*@
+            <label asp-for="MobileNumber"></label>
+            <input type="number" asp-for="MobileNumber" class="form-control" />
+            <span asp-validation-for="MobileNumber" class="text-danger"></span>
+        </div>
+
+       
+
+      
+@* 
+         <div>
+             <label asp-for="Payments"></label>
+             <select asp-for="Payments" asp-items="@ViewBag.DeptSelectItems" class="form-control">
+                 <option selected disabled>Select...</option>
+             </select>
+         </div>
+ *@
+       
+
+
+        <div>
+            <button type="submit" class="btn btn-primary mt-1">Add</button>
+            <a asp-controller="User" asp-action="GetIndexView">Back to List</a>
+        </div>
+    </form>
+
+    <div class="col-4">
+        <img src="" id="empImage" style="object-fit:contain" />
+    </div>
+
+</div>
+
