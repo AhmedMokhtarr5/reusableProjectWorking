@@ -1,0 +1,68 @@
+﻿
+@model Product 
+
+<h1 class="alert alert-warning text-center">
+    Edit Products
+</h1>
+
+<div class="row">
+    <form class="col-4" method="post" asp-controller="Product" asp-action="EditCurrent">
+
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+
+
+        <div>
+            @*<label>@Html.DisplayNameFor(e=>e.FullName)</label>*@
+            <label asp-for="Name"></label>
+            <input type="text" asp-for="Name" class="form-control"  />
+            <span asp-validation-for="Name" class="text-danger"></span>
+        </div>
+
+        <div>
+            @*<label>@Html.DisplayNameFor(e=>e.Position)</label>*@
+            <label asp-for="Description"></label>
+            <input type="text" asp-for="Description" class="form-control"  />
+            <span asp-validation-for="Description" class="text-danger"></span>
+        </div>
+
+        <div>
+            @*<label>@Html.DisplayNameFor(e=>e.Salary)</label>*@
+            <label asp-for="Price"></label>
+            <input type="text" asp-for="Price" step="0.01" class="form-control"  />
+            <span asp-validation-for="Price" class="text-danger"></span>
+        </div>
+
+        <div>
+            @*<label>@Html.DisplayNameFor(e=>e.Salary)</label>*@
+            <label asp-for="Category"></label>
+            <input type="text" asp-for="Category" step="0.01" class="form-control"  />
+            <span asp-validation-for="Category" class="text-danger"></span>
+        </div>
+
+        <div>
+            @*<label>@Html.DisplayNameFor(e=>e.BirthDate)</label>*@
+            <label asp-for="StockQuantity"></label>
+            <input asp-for="StockQuantity" step="0.01" class="form-control"  />
+            <span asp-validation-for="StockQuantity" class="text-danger"></span>
+        </div>
+
+        <div>
+
+
+
+
+            <input type="hidden" asp-for="ProductId" />
+
+            <div>
+                <button type="submit" class="btn btn-primary mt-1">Edit</button>
+                <a asp-controller="Product" asp-action="GetIndexView">Back to List</a>
+            </div>
+    </form>
+
+
+
+
+</div>
+
+

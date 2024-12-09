@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("yarab")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+85d6e325847de4ef80ec081456f3e4fa27e786ba")]
 [assembly: System.Reflection.AssemblyProductAttribute("yarab")]
 [assembly: System.Reflection.AssemblyTitleAttribute("yarab")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -34,6 +34,13 @@
         </div>
 
         <div>
+            @*<label>@Html.DisplayNameFor(e=>e.Salary)</label>*@
+            <label asp-for="Area"></label>
+            <input type="text" asp-for="Area" step="0.01" class="form-control" />
+            <span asp-validation-for="Area" class="text-danger"></span>
+        </div>
+
+        <div>
             @*<label>@Html.DisplayNameFor(e=>e.BirthDate)</label>*@
             <label asp-for="MobileNumber"></label>
             <input asp-for="MobileNumber" step="0.01" class="form-control" />

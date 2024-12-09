@@ -3,96 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\ahmed sameh\\source\\repos\\yarab\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B1B7E9E1-FCF9-45DB-A043-15E189FABE55}|yarab\\yarab.csproj|c:\\users\\ahmed sameh\\source\\repos\\yarab\\yarab\\views\\user\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B1B7E9E1-FCF9-45DB-A043-15E189FABE55}|yarab\\yarab.csproj|solutionrelative:yarab\\views\\user\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B1B7E9E1-FCF9-45DB-A043-15E189FABE55}|yarab\\yarab.csproj|c:\\users\\ahmed sameh\\source\\repos\\yarab\\yarab\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1B7E9E1-FCF9-45DB-A043-15E189FABE55}|yarab\\yarab.csproj|solutionrelative:yarab\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B1B7E9E1-FCF9-45DB-A043-15E189FABE55}|yarab\\yarab.csproj|c:\\users\\ahmed sameh\\source\\repos\\yarab\\yarab\\views\\user\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B1B7E9E1-FCF9-45DB-A043-15E189FABE55}|yarab\\yarab.csproj|solutionrelative:yarab\\views\\user\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B1B7E9E1-FCF9-45DB-A043-15E189FABE55}|yarab\\yarab.csproj|c:\\users\\ahmed sameh\\source\\repos\\yarab\\yarab\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1B7E9E1-FCF9-45DB-A043-15E189FABE55}|yarab\\yarab.csproj|solutionrelative:yarab\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B1B7E9E1-FCF9-45DB-A043-15E189FABE55}|yarab\\yarab.csproj|c:\\users\\ahmed sameh\\source\\repos\\yarab\\yarab\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B1B7E9E1-FCF9-45DB-A043-15E189FABE55}|yarab\\yarab.csproj|solutionrelative:yarab\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B1B7E9E1-FCF9-45DB-A043-15E189FABE55}|yarab\\yarab.csproj|c:\\users\\ahmed sameh\\source\\repos\\yarab\\yarab\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B1B7E9E1-FCF9-45DB-A043-15E189FABE55}|yarab\\yarab.csproj|solutionrelative:yarab\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B1B7E9E1-FCF9-45DB-A043-15E189FABE55}|yarab\\yarab.csproj|c:\\users\\ahmed sameh\\source\\repos\\yarab\\yarab\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B1B7E9E1-FCF9-45DB-A043-15E189FABE55}|yarab\\yarab.csproj|solutionrelative:yarab\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B1B7E9E1-FCF9-45DB-A043-15E189FABE55}|yarab\\yarab.csproj|c:\\users\\ahmed sameh\\source\\repos\\yarab\\yarab\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B1B7E9E1-FCF9-45DB-A043-15E189FABE55}|yarab\\yarab.csproj|solutionrelative:yarab\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B1B7E9E1-FCF9-45DB-A043-15E189FABE55}|yarab\\yarab.csproj|c:\\users\\ahmed sameh\\source\\repos\\yarab\\yarab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B1B7E9E1-FCF9-45DB-A043-15E189FABE55}|yarab\\yarab.csproj|solutionrelative:yarab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B1B7E9E1-FCF9-45DB-A043-15E189FABE55}|yarab\\yarab.csproj|c:\\users\\ahmed sameh\\source\\repos\\yarab\\yarab\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B1B7E9E1-FCF9-45DB-A043-15E189FABE55}|yarab\\yarab.csproj|solutionrelative:yarab\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B1B7E9E1-FCF9-45DB-A043-15E189FABE55}|yarab\\yarab.csproj|c:\\users\\ahmed sameh\\source\\repos\\yarab\\yarab\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B1B7E9E1-FCF9-45DB-A043-15E189FABE55}|yarab\\yarab.csproj|solutionrelative:yarab\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B1B7E9E1-FCF9-45DB-A043-15E189FABE55}|yarab\\yarab.csproj|c:\\users\\ahmed sameh\\source\\repos\\yarab\\yarab\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B1B7E9E1-FCF9-45DB-A043-15E189FABE55}|yarab\\yarab.csproj|solutionrelative:yarab\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B1B7E9E1-FCF9-45DB-A043-15E189FABE55}|yarab\\yarab.csproj|c:\\users\\ahmed sameh\\source\\repos\\yarab\\yarab\\views\\user\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B1B7E9E1-FCF9-45DB-A043-15E189FABE55}|yarab\\yarab.csproj|solutionrelative:yarab\\views\\user\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B1B7E9E1-FCF9-45DB-A043-15E189FABE55}|yarab\\yarab.csproj|c:\\users\\ahmed sameh\\source\\repos\\yarab\\yarab\\views\\user\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B1B7E9E1-FCF9-45DB-A043-15E189FABE55}|yarab\\yarab.csproj|solutionrelative:yarab\\views\\user\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B1B7E9E1-FCF9-45DB-A043-15E189FABE55}|yarab\\yarab.csproj|c:\\users\\ahmed sameh\\source\\repos\\yarab\\yarab\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B1B7E9E1-FCF9-45DB-A043-15E189FABE55}|yarab\\yarab.csproj|solutionrelative:yarab\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B1B7E9E1-FCF9-45DB-A043-15E189FABE55}|yarab\\yarab.csproj|c:\\users\\ahmed sameh\\source\\repos\\yarab\\yarab\\views\\user\\getdeleteview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B1B7E9E1-FCF9-45DB-A043-15E189FABE55}|yarab\\yarab.csproj|solutionrelative:yarab\\views\\user\\getdeleteview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B1B7E9E1-FCF9-45DB-A043-15E189FABE55}|yarab\\yarab.csproj|c:\\users\\ahmed sameh\\source\\repos\\yarab\\yarab\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B1B7E9E1-FCF9-45DB-A043-15E189FABE55}|yarab\\yarab.csproj|solutionrelative:yarab\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B1B7E9E1-FCF9-45DB-A043-15E189FABE55}|yarab\\yarab.csproj|c:\\users\\ahmed sameh\\source\\repos\\yarab\\yarab\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B1B7E9E1-FCF9-45DB-A043-15E189FABE55}|yarab\\yarab.csproj|solutionrelative:yarab\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B1B7E9E1-FCF9-45DB-A043-15E189FABE55}|yarab\\yarab.csproj|c:\\users\\ahmed sameh\\source\\repos\\yarab\\yarab\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B1B7E9E1-FCF9-45DB-A043-15E189FABE55}|yarab\\yarab.csproj|solutionrelative:yarab\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B1B7E9E1-FCF9-45DB-A043-15E189FABE55}|yarab\\yarab.csproj|c:\\users\\ahmed sameh\\source\\repos\\yarab\\yarab\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B1B7E9E1-FCF9-45DB-A043-15E189FABE55}|yarab\\yarab.csproj|solutionrelative:yarab\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B1B7E9E1-FCF9-45DB-A043-15E189FABE55}|yarab\\yarab.csproj|c:\\users\\ahmed sameh\\source\\repos\\yarab\\yarab\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{B1B7E9E1-FCF9-45DB-A043-15E189FABE55}|yarab\\yarab.csproj|solutionrelative:yarab\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B1B7E9E1-FCF9-45DB-A043-15E189FABE55}|yarab\\yarab.csproj|c:\\users\\ahmed sameh\\source\\repos\\yarab\\yarab\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B1B7E9E1-FCF9-45DB-A043-15E189FABE55}|yarab\\yarab.csproj|solutionrelative:yarab\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B1B7E9E1-FCF9-45DB-A043-15E189FABE55}|yarab\\yarab.csproj|c:\\users\\ahmed sameh\\source\\repos\\yarab\\yarab\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B1B7E9E1-FCF9-45DB-A043-15E189FABE55}|yarab\\yarab.csproj|solutionrelative:yarab\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B1B7E9E1-FCF9-45DB-A043-15E189FABE55}|yarab\\yarab.csproj|c:\\users\\ahmed sameh\\source\\repos\\yarab\\yarab\\yarab.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{B1B7E9E1-FCF9-45DB-A043-15E189FABE55}|yarab\\yarab.csproj|solutionrelative:yarab\\yarab.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B1B7E9E1-FCF9-45DB-A043-15E189FABE55}|yarab\\yarab.csproj|c:\\users\\ahmed sameh\\source\\repos\\yarab\\yarab\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B1B7E9E1-FCF9-45DB-A043-15E189FABE55}|yarab\\yarab.csproj|solutionrelative:yarab\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B1B7E9E1-FCF9-45DB-A043-15E189FABE55}|yarab\\yarab.csproj|c:\\users\\ahmed sameh\\source\\repos\\yarab\\yarab\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B1B7E9E1-FCF9-45DB-A043-15E189FABE55}|yarab\\yarab.csproj|solutionrelative:yarab\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B1B7E9E1-FCF9-45DB-A043-15E189FABE55}|yarab\\yarab.csproj|c:\\users\\ahmed sameh\\source\\repos\\yarab\\yarab\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B1B7E9E1-FCF9-45DB-A043-15E189FABE55}|yarab\\yarab.csproj|solutionrelative:yarab\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B1B7E9E1-FCF9-45DB-A043-15E189FABE55}|yarab\\yarab.csproj|c:\\users\\ahmed sameh\\source\\repos\\yarab\\yarab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1B7E9E1-FCF9-45DB-A043-15E189FABE55}|yarab\\yarab.csproj|solutionrelative:yarab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B1B7E9E1-FCF9-45DB-A043-15E189FABE55}|yarab\\yarab.csproj|c:\\users\\ahmed sameh\\source\\repos\\yarab\\yarab\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B1B7E9E1-FCF9-45DB-A043-15E189FABE55}|yarab\\yarab.csproj|solutionrelative:yarab\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B1B7E9E1-FCF9-45DB-A043-15E189FABE55}|yarab\\yarab.csproj|c:\\users\\ahmed sameh\\source\\repos\\yarab\\yarab\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B1B7E9E1-FCF9-45DB-A043-15E189FABE55}|yarab\\yarab.csproj|solutionrelative:yarab\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B1B7E9E1-FCF9-45DB-A043-15E189FABE55}|yarab\\yarab.csproj|c:\\users\\ahmed sameh\\source\\repos\\yarab\\yarab\\migrations\\20241205163924_databaseupdte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B1B7E9E1-FCF9-45DB-A043-15E189FABE55}|yarab\\yarab.csproj|solutionrelative:yarab\\migrations\\20241205163924_databaseupdte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -102,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -118,292 +66,133 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\ahmed sameh\\source\\repos\\yarab\\yarab\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "yarab\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\ahmed sameh\\source\\repos\\yarab\\yarab\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "yarab\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T14:46:58.819Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\ahmed sameh\\source\\repos\\yarab\\yarab\\Views\\User\\Edit.cshtml",
-              "RelativeDocumentMoniker": "yarab\\Views\\User\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\ahmed sameh\\source\\repos\\yarab\\yarab\\Views\\User\\Edit.cshtml",
-              "RelativeToolTip": "yarab\\Views\\User\\Edit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-05T15:34:02.665Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\ahmed sameh\\source\\repos\\yarab\\yarab\\Views\\User\\Details.cshtml",
-              "RelativeDocumentMoniker": "yarab\\Views\\User\\Details.cshtml",
-              "ToolTip": "C:\\Users\\ahmed sameh\\source\\repos\\yarab\\yarab\\Views\\User\\Details.cshtml",
-              "RelativeToolTip": "yarab\\Views\\User\\Details.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-05T15:33:39.474Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\ahmed sameh\\source\\repos\\yarab\\yarab\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "yarab\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\ahmed sameh\\source\\repos\\yarab\\yarab\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "yarab\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T11:52:13.544Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\ahmed sameh\\source\\repos\\yarab\\yarab\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "yarab\\Controllers\\UserController.cs",
-              "ToolTip": "C:\\Users\\ahmed sameh\\source\\repos\\yarab\\yarab\\Controllers\\UserController.cs",
-              "RelativeToolTip": "yarab\\Controllers\\UserController.cs",
-              "ViewState": "AgIAAHcAAAAAAAAAAAAIwIEAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T14:49:41.058Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ahmed sameh\\source\\repos\\yarab\\yarab\\Program.cs",
-              "RelativeDocumentMoniker": "yarab\\Program.cs",
-              "ToolTip": "C:\\Users\\ahmed sameh\\source\\repos\\yarab\\yarab\\Program.cs",
-              "RelativeToolTip": "yarab\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAiwBAAAABLAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T16:24:28.456Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "GetDeleteView.cshtml",
-              "DocumentMoniker": "C:\\Users\\ahmed sameh\\source\\repos\\yarab\\yarab\\Views\\User\\GetDeleteView.cshtml",
-              "RelativeDocumentMoniker": "yarab\\Views\\User\\GetDeleteView.cshtml",
-              "ToolTip": "C:\\Users\\ahmed sameh\\source\\repos\\yarab\\yarab\\Views\\User\\GetDeleteView.cshtml",
-              "RelativeToolTip": "yarab\\Views\\User\\GetDeleteView.cshtml",
-              "ViewState": "AgIAABgAAAAAAAAAAAAmwCoAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-07T22:11:36.754Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\ahmed sameh\\source\\repos\\yarab\\yarab\\Views\\User\\Delete.cshtml",
-              "RelativeDocumentMoniker": "yarab\\Views\\User\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\ahmed sameh\\source\\repos\\yarab\\yarab\\Views\\User\\Delete.cshtml*",
-              "RelativeToolTip": "yarab\\Views\\User\\Delete.cshtml*",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAACUAAABTAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-05T15:22:12.736Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ahmed sameh\\source\\repos\\yarab\\yarab\\Views\\User\\Index.cshtml",
-              "RelativeDocumentMoniker": "yarab\\Views\\User\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ahmed sameh\\source\\repos\\yarab\\yarab\\Views\\User\\Index.cshtml",
-              "RelativeToolTip": "yarab\\Views\\User\\Index.cshtml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAACQAAABBAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-05T15:33:49.044Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\ahmed sameh\\source\\repos\\yarab\\yarab\\Views\\User\\Create.cshtml",
-              "RelativeDocumentMoniker": "yarab\\Views\\User\\Create.cshtml",
-              "ToolTip": "C:\\Users\\ahmed sameh\\source\\repos\\yarab\\yarab\\Views\\User\\Create.cshtml",
-              "RelativeToolTip": "yarab\\Views\\User\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-05T15:09:09.865Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\ahmed sameh\\source\\repos\\yarab\\yarab\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "yarab\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\ahmed sameh\\source\\repos\\yarab\\yarab\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "yarab\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAABOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-05T15:50:53.854Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "_ValidationScriptsPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\ahmed sameh\\source\\repos\\yarab\\yarab\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeDocumentMoniker": "yarab\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ToolTip": "C:\\Users\\ahmed sameh\\source\\repos\\yarab\\yarab\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeToolTip": "yarab\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-07T22:07:31.126Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\ahmed sameh\\source\\repos\\yarab\\yarab\\Models\\User.cs",
-              "RelativeDocumentMoniker": "yarab\\Models\\User.cs",
-              "ToolTip": "C:\\Users\\ahmed sameh\\source\\repos\\yarab\\yarab\\Models\\User.cs",
-              "RelativeToolTip": "yarab\\Models\\User.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T11:54:13.205Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Admin.cs",
-              "DocumentMoniker": "C:\\Users\\ahmed sameh\\source\\repos\\yarab\\yarab\\Models\\Admin.cs",
-              "RelativeDocumentMoniker": "yarab\\Models\\Admin.cs",
-              "ToolTip": "C:\\Users\\ahmed sameh\\source\\repos\\yarab\\yarab\\Models\\Admin.cs",
-              "RelativeToolTip": "yarab\\Models\\Admin.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAsAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T11:53:32.174Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\ahmed sameh\\source\\repos\\yarab\\yarab\\appsettings.json",
-              "RelativeDocumentMoniker": "yarab\\appsettings.json",
-              "ToolTip": "C:\\Users\\ahmed sameh\\source\\repos\\yarab\\yarab\\appsettings.json",
-              "RelativeToolTip": "yarab\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-05T16:03:08.794Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Error.cshtml",
-              "DocumentMoniker": "C:\\Users\\ahmed sameh\\source\\repos\\yarab\\yarab\\Views\\Shared\\Error.cshtml",
-              "RelativeDocumentMoniker": "yarab\\Views\\Shared\\Error.cshtml",
-              "ToolTip": "C:\\Users\\ahmed sameh\\source\\repos\\yarab\\yarab\\Views\\Shared\\Error.cshtml",
-              "RelativeToolTip": "yarab\\Views\\Shared\\Error.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-07T22:07:33.076Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "yarab.csproj",
-              "DocumentMoniker": "C:\\Users\\ahmed sameh\\source\\repos\\yarab\\yarab\\yarab.csproj",
-              "RelativeDocumentMoniker": "yarab\\yarab.csproj",
-              "ToolTip": "C:\\Users\\ahmed sameh\\source\\repos\\yarab\\yarab\\yarab.csproj",
-              "RelativeToolTip": "yarab\\yarab.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-05T16:33:28.834Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "20241205163924_databaseUpdte.cs",
-              "DocumentMoniker": "C:\\Users\\ahmed sameh\\source\\repos\\yarab\\yarab\\Migrations\\20241205163924_databaseUpdte.cs",
-              "RelativeDocumentMoniker": "yarab\\Migrations\\20241205163924_databaseUpdte.cs",
-              "ToolTip": "C:\\Users\\ahmed sameh\\source\\repos\\yarab\\yarab\\Migrations\\20241205163924_databaseUpdte.cs",
-              "RelativeToolTip": "yarab\\Migrations\\20241205163924_databaseUpdte.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T16:39:24.742Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "CartItem.cs",
-              "DocumentMoniker": "C:\\Users\\ahmed sameh\\source\\repos\\yarab\\yarab\\Models\\CartItem.cs",
-              "RelativeDocumentMoniker": "yarab\\Models\\CartItem.cs",
-              "ToolTip": "C:\\Users\\ahmed sameh\\source\\repos\\yarab\\yarab\\Models\\CartItem.cs",
-              "RelativeToolTip": "yarab\\Models\\CartItem.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAwAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T11:53:57.856Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Cart.cs",
-              "DocumentMoniker": "C:\\Users\\ahmed sameh\\source\\repos\\yarab\\yarab\\Models\\Cart.cs",
-              "RelativeDocumentMoniker": "yarab\\Models\\Cart.cs",
-              "ToolTip": "C:\\Users\\ahmed sameh\\source\\repos\\yarab\\yarab\\Models\\Cart.cs",
-              "RelativeToolTip": "yarab\\Models\\Cart.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T11:53:55.947Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Payment.cs",
-              "DocumentMoniker": "C:\\Users\\ahmed sameh\\source\\repos\\yarab\\yarab\\Models\\Payment.cs",
-              "RelativeDocumentMoniker": "yarab\\Models\\Payment.cs",
-              "ToolTip": "C:\\Users\\ahmed sameh\\source\\repos\\yarab\\yarab\\Models\\Payment.cs",
-              "RelativeToolTip": "yarab\\Models\\Payment.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAqwBAAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T11:54:06.878Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\ahmed sameh\\source\\repos\\yarab\\yarab\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "yarab\\Models\\Product.cs",
-              "ToolTip": "C:\\Users\\ahmed sameh\\source\\repos\\yarab\\yarab\\Models\\Product.cs",
-              "RelativeToolTip": "yarab\\Models\\Product.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T11:54:10.17Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
               "Title": "Order.cs",
               "DocumentMoniker": "C:\\Users\\ahmed sameh\\source\\repos\\yarab\\yarab\\Models\\Order.cs",
               "RelativeDocumentMoniker": "yarab\\Models\\Order.cs",
               "ToolTip": "C:\\Users\\ahmed sameh\\source\\repos\\yarab\\yarab\\Models\\Order.cs",
               "RelativeToolTip": "yarab\\Models\\Order.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T11:54:03.525Z"
+              "WhenOpened": "2024-12-09T20:01:06.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\ahmed sameh\\source\\repos\\yarab\\yarab\\Views\\Product\\Details.cshtml",
+              "RelativeDocumentMoniker": "yarab\\Views\\Product\\Details.cshtml",
+              "ToolTip": "C:\\Users\\ahmed sameh\\source\\repos\\yarab\\yarab\\Views\\Product\\Details.cshtml",
+              "RelativeToolTip": "yarab\\Views\\Product\\Details.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T19:57:31.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\ahmed sameh\\source\\repos\\yarab\\yarab\\Views\\Product\\Delete.cshtml",
+              "RelativeDocumentMoniker": "yarab\\Views\\Product\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\ahmed sameh\\source\\repos\\yarab\\yarab\\Views\\Product\\Delete.cshtml",
+              "RelativeToolTip": "yarab\\Views\\Product\\Delete.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T19:57:24.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed sameh\\source\\repos\\yarab\\yarab\\Program.cs",
+              "RelativeDocumentMoniker": "yarab\\Program.cs",
+              "ToolTip": "C:\\Users\\ahmed sameh\\source\\repos\\yarab\\yarab\\Program.cs",
+              "RelativeToolTip": "yarab\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T19:54:23.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed sameh\\source\\repos\\yarab\\yarab\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "yarab\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\ahmed sameh\\source\\repos\\yarab\\yarab\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "yarab\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T19:52:12.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ahmed sameh\\source\\repos\\yarab\\yarab\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "yarab\\Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ahmed sameh\\source\\repos\\yarab\\yarab\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "yarab\\Views\\Product\\Create.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAAMAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T19:50:38.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ahmed sameh\\source\\repos\\yarab\\yarab\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "yarab\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ahmed sameh\\source\\repos\\yarab\\yarab\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "yarab\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T19:49:05.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ahmed sameh\\source\\repos\\yarab\\yarab\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "yarab\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ahmed sameh\\source\\repos\\yarab\\yarab\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "yarab\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T19:45:17.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ahmed sameh\\source\\repos\\yarab\\yarab\\Views\\Product\\Edit.cshtml",
+              "RelativeDocumentMoniker": "yarab\\Views\\Product\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ahmed sameh\\source\\repos\\yarab\\yarab\\Views\\Product\\Edit.cshtml",
+              "RelativeToolTip": "yarab\\Views\\Product\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T19:57:45.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed sameh\\source\\repos\\yarab\\yarab\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "yarab\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\ahmed sameh\\source\\repos\\yarab\\yarab\\Models\\Product.cs",
+              "RelativeToolTip": "yarab\\Models\\Product.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T19:36:52.068Z",
+              "EditorCaption": ""
             }
           ]
         }

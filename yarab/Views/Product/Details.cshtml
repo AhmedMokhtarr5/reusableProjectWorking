@@ -1,0 +1,35 @@
+﻿@model Product
+
+<h1 class="alert alert-info text-center">@Model.Name Details</h1>
+
+<div class="row">
+    <dl class="row col-6">
+        <dt class="col-2">@Html.DisplayNameFor(e=>e.ProductId)</dt>
+        <dd class="col-10">@Html.DisplayFor(e => e.ProductId)</dd>
+        @*<dd class="col-10">@Model.Id</dd>*@
+
+        <dt class="col-2">@Html.DisplayNameFor(e=>e.Name)</dt>
+        <dd class="col-10">@Html.DisplayFor(e=>e.Name)</dd>
+        @*<dd class="col-10">@Model.FullName</dd>*@
+
+        <dt class="col-2">@Html.DisplayNameFor(e => e.Description)</dt>
+        <dd class="col-10">@Html.DisplayFor(e => e.Description)</dd>
+        @*<dd class="col-10">@Model.Position</dd>*@
+
+        <dt class="col-2">@Html.DisplayNameFor(e => e.Price)</dt>
+        <dd class="col-10">@Html.DisplayFor(e => e.Price)</dd>
+
+
+        <dt class="col-2">@Html.DisplayNameFor(e => e.Category)</dt>
+        <dd class="col-10">@Html.DisplayFor(e => e.Category)</dd>
+
+        <dt class="col-2">@Html.DisplayNameFor(e => e.StockQuantity)</dt>
+        <dd class="col-10">@Html.DisplayFor(e => e.StockQuantity)</dd>
+        @*<dd class="col-10">@Model.Salary</dd>*@
+
+        
+    </dl>
+
+   
+</div>
+<a asp-controller="Product" asp-action="GetIndexView">Back to List</a>

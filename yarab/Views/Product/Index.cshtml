@@ -1,0 +1,60 @@
+﻿@model IEnumerable<Product>
+
+<h1 class="alert alert-info text-center">
+    product Managment
+</h1>
+
+<a asp-controller="Product" asp-action="GetCreateView" class="btn btn-success mb-1">
+    Create New
+</a>
+
+
+@if (Model.Count() > 0)
+{
+    <table class="table table-bordered table-striped table-hover">
+        <thead>
+            <tr>
+                <th>@Html.DisplayNameFor(e=>e.ProductId)</th>
+                <th>@Html.DisplayNameFor(e=>e.Name)</th>
+                <th>@Html.DisplayNameFor(e => e.Description)</th>
+                <th>@Html.DisplayNameFor(e => e.Price)</th>
+                <th>@Html.DisplayNameFor(e => e.Category)</th>
+
+                <th>@Html.DisplayNameFor(e => e.StockQuantity)</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.ProductId</td>
+                    <td>@item.Name</td>
+
+                    <td>@item.Description</td>
+                    <td>@item.Price</td>
+                    <td>@item.Category</td>
+                    <td>@item.StockQuantity</td>
+                    <td>
+                        <a asp-controller="Product" asp-action="GetDetailsView"
+                           asp-route-id="@item.ProductId" class="btn btn-outline-success" title="Details"><i class="bi bi-list-ul"></i>Details</a>
+
+                        <a asp-controller="Product" asp-action="GetEditView"
+                           asp-route-id="@item.ProductId" class="btn btn-outline-primary" title="Edit"><i class="bi bi-pencil-square"></i> Edit</a>
+
+                        <a asp-controller="Product" asp-action="GetDeleteView"
+                           asp-route-id="@item.ProductId" class="btn btn-outline-danger" title="Delete"><i class="bi bi-trash"></i> Delete</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+      
+    </table>
+}
+else
+{
+    <h1 class="alert alert-danger text-center">There is no data.</h1>
+}
+
+<br />
+<hr />

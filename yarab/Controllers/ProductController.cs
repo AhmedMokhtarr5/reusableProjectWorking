@@ -7,29 +7,44 @@ using System.Linq;
 
 namespace yarab.Controllers
 {
-	public class UserController : Controller
+	public class ProductController : Controller
 	{
           	ApplicationDbContext _context;
 			IWebHostEnvironment _webHostEnvironment;
 
-			public UserController(IWebHostEnvironment webHostEnvironment, ApplicationDbContext context)
+			public ProductController(IWebHostEnvironment webHostEnvironment, ApplicationDbContext context)
 			{
 
 				_webHostEnvironment = webHostEnvironment;
 				_context = context;
 			}
-		[HttpGet]
+
+        [HttpGet]
+        [Route("api/products")]
+        public async Task<IActionResult> GetProducts()
+        {
+            var products = await _context.Products.ToListAsync();
+            return Json(products);
+        }
+
+
+
+
+
+
+
+        [HttpGet]
 		public IActionResult GetIndexView()
 		{
-			return View("Index", _context.Users.ToList());
+			return View("Index", _context.Products.ToList());
 		}
 		[HttpGet]
 		public IActionResult GetDetailsView(int id)
 		{
-            User user = _context.Users.SingleOrDefault(e => e.UserId == id);
+           Product product = _context.Products.SingleOrDefault(e => e.ProductId == id);
 
 
-            return View("Details", user);
+            return View("Details", product);
 		}
 		[HttpGet]
 		public IActionResult GetCreateView()
@@ -41,7 +56,7 @@ namespace yarab.Controllers
 
 
 		[HttpPost]
-		public IActionResult AddNew(User user) 
+		public IActionResult AddNew(Product product) 
 		{
 			
 
@@ -49,7 +64,7 @@ namespace yarab.Controllers
 
 			if (ModelState.IsValid == true)
 			{
-				_context.Users.Add(user);
+				_context.Products.Add(product);
 				_context.SaveChanges();
 				return RedirectToAction("GetIndexView");
 			}
@@ -64,16 +79,16 @@ namespace yarab.Controllers
 		[HttpGet]
 		public IActionResult GetEditView(int id)
 		{
-			User user= _context.Users.FirstOrDefault(e => e.UserId == id);
+		Product product= _context.Products.FirstOrDefault(e => e.ProductId == id);
 
-			if (user == null)
+			if (product == null)
 			{
 				return NotFound();
 			}
 			else
 			{
 
-				return View("Edit", user);
+				return View("Edit", product);
 			}
 
 			
@@ -82,7 +97,7 @@ namespace yarab.Controllers
 
 
 		[HttpPost]
-		public IActionResult EditCurrent(User user )
+		public IActionResult EditCurrent(Product product)
 		{
 
 
@@ -91,7 +106,7 @@ namespace yarab.Controllers
 
             if (ModelState.IsValid == true)
             {
-                _context.Users.Update(user);
+                _context.Products.Update(product);
                 _context.SaveChanges();
                 return RedirectToAction("GetIndexView");
             }
@@ -108,27 +123,27 @@ namespace yarab.Controllers
         [HttpGet]
 		public IActionResult GetDeleteView(int id)
 		{
-			User user = _context.Users.FirstOrDefault(e => e.UserId == id);
+			Product product = _context.Products.FirstOrDefault(e => e.ProductId== id);
          
            
 
-            if (user == null)
+            if (product == null)
 			{
 				return NotFound();
 			}
 			else
 			{
-				return View("Delete", user);
+				return View("Delete", product);
 			}
 		}
 
 		
 
 		[HttpPost]
-		public IActionResult DeleteCurrent(User user)
+		public IActionResult DeleteCurrent(Product product)
 		{
            
-            if (user == null)
+            if (product == null)
             {
                 return NotFound();
             }
@@ -137,7 +152,7 @@ namespace yarab.Controllers
               
 
 
-                _context.Users.Remove(user);
+                _context.Products.Remove(product);
                 _context.SaveChanges();
                 return RedirectToAction("GetIndexView");
             }
